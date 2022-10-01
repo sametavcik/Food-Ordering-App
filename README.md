@@ -2,7 +2,9 @@
 
 ## Bu projede İzmir ilindeki mahallelerin yemek siparişlerini depolamak için [İkili arama ağacı](https://bilgisayarkavramlari.com/2008/05/07/ikili-arama-agaci-binary-search-tree/) oluşturulmasını amaçlamaktadır.
 
-![Adsız](https://user-images.githubusercontent.com/65908597/193407549-548bd8a2-8714-4b39-854f-78dd0e16df6a.png)
+![Adsız7](https://user-images.githubusercontent.com/65908597/193408059-9432242f-b08e-415d-916b-0bb1eddaf012.png)
+
+
 
 ### Projede arama Algoritması olarak [Inorder](https://www.ahmetcevahircinar.com.tr/2016/07/24/ikili-agaclar-uzerinde-dolasma-nasil-yapilir/) yöntemi kullanılmıştır.
 
