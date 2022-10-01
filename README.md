@@ -15,3 +15,14 @@
 
 ![Adsız2](https://user-images.githubusercontent.com/65908597/193407756-bc4d67d7-a45e-4f31-a93c-bfbcfcf6d524.png)
 ![Adsız3](https://user-images.githubusercontent.com/65908597/193407759-14b770e6-6e93-463f-b7a2-6bca4a1aef73.png)
+
+### b-)
+![4](https://user-images.githubusercontent.com/65908597/193407825-6d0881a9-11c5-4afd-978b-86cf193cfc6c.png)
+
+### c-)
+
+![Adsız4](https://user-images.githubusercontent.com/65908597/193407861-21800a83-6808-4e36-9efe-da2a289ce371.png)
+
+### d-)
+![Adsız5](https://user-images.githubusercontent.com/65908597/193407935-20bff298-a363-46e2-92a7-572a7ce0b40f.png)
+
